@@ -15,6 +15,8 @@ Place the button on pin 2 near the LED on pin 5,
 the button on pin 3 near the LED on pin 6,
 and the button on pin 4 near the LED on pin 7.
 
+Upload the sketch to the Arduino.
+
 ## How to Play
 
 Turn on the Arduino. One LED should light up.
